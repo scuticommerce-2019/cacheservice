@@ -1,6 +1,6 @@
 package com.scuticommerce.cache.service;
 
-import com.scuticommerce.cache.model.CacheData;
+import com.scuticommerce.model.cache.CacheData;
 import org.apache.commons.collections4.ListUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisCallback;
